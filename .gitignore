@@ -36,4 +36,3 @@ node_modules
 venv/
 .vscode
 .env
-config.ts
